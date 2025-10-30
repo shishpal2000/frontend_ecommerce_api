@@ -8,7 +8,7 @@ const API_CONFIG = {
   model: "gemini-2.5-flash-preview-09-2025",
   url: `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-09-2025:generateContent`,
 };
-const apiKey = "AIzaSyBkIO23pnHuy95gEnZYKthB2k-Dem_Bd8U";
+const apiKey = "";
 
 // Constants
 const MAX_FILE_SIZE_MB = 25;
