@@ -1,0 +1,42 @@
+# Node dependencies (if using Sencha Cmd with Node tools)
+npm-debug.log
+yarn-error.log
+
+# systme generated file
+
+# Sencha build artifacts
+build/
+ext/
+node_modules/
+workspace.json
+workspace.jsonp
+workspace.packages.json
+workspace.build.json
+
+
+# IDE/editor stuff
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Docker
+.dockerignore
+Dockerfile
+logs/
+
+# Git
+.git
+.gitignore
+
+# Temporary files
+tmp/
+dist/
+.cache/

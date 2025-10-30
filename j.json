@@ -1,0 +1,36 @@
+{
+  "materials": [
+    {
+
+
+      "material": [{
+        "category_id": "string",
+        "category_name": "string",
+        "material_id": "string",
+        "material_name": "string"
+      }],
+      "placement_location":[
+        {
+          "placement_id": "string",
+          "placement_name": "string"
+        }
+      ],
+      "processes": [
+        {
+          "process_name": "string",
+          "process_id": "string",
+          "fields": [
+            {
+              "field_id": "string",
+              "field_name": "string",
+              "is_required": true,
+              "value": "string",
+              "data_type": "string",
+              "units": "string"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
